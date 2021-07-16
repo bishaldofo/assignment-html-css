@@ -1,0 +1,43 @@
+h1{
+	padding: 30px;
+	text-align: center;
+}
+.logo{
+	width: 100%;
+	min-height: 100px;
+	background-color: red;
+	display: flow-root;
+}
+
+.wrapper{
+	overflow: hidden;
+	display: flow-root;
+}
+.sidebar{
+	width: 35%;
+	min-height: 700px;
+	background-color: grey;
+	float: left;
+}
+.body_area_wrapper{
+	width: 65%;
+	min-height: 700px;
+	background-color: green;
+	float: right;
+}
+.blog1{
+	height: 200px;
+	background-color: yellow; 
+	display: flow-root;
+}
+.blog2{
+	height: 500px;
+	background-color: blue;
+	display: flow-root;
+}
+
+.footer{
+	min-height: 100px;
+	background-color: green;
+	display: flow-root;
+}
